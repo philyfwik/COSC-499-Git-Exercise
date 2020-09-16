@@ -3,7 +3,7 @@
 int user(int num);
 int main()
 {   
-    printf("Hello there!"); // This is the initial greeting!
+    printf("Hello there!"); 
 
     char fname[15];
     printf("\n\nEnter your first name: ");
