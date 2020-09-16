@@ -3,7 +3,7 @@
 int user(int num);
 int main()
 {   
-    printf("Hello there!"); // Change to program
+    printf("Hello there!"); // New comment to assignment
 
     char fname[15];
     printf("\n\nEnter your first name: ");
